@@ -1,0 +1,3 @@
+[submodule "TestPrivateRepo"]
+	path = TestPrivateRepo
+	url = https://github.com/Anpatel95/TestPrivateRepo.git
